@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact name="getsql:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/getsql_jar</output-path>
+    <root id="root">
+      <element id="archive" name="getsql.jar">
+        <element id="module-output" name="getsql" />
+      </element>
+      <element id="file-copy" path="$PROJECT_DIR$/../../soft/ojdbc6-11.jar/ojdbc6-11.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../soft/fastjson-1.2.56.jar" />
+    </root>
+  </artifact>
+</component>

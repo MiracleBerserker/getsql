@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Class-Path: ojdbc6-11.jar fastjson-1.2.56.jar
+Main-Class: MainApp
+
